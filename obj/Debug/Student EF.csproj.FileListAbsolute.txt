@@ -1,0 +1,24 @@
+C:\Users\Brandon\Music\Step 451\bin\Debug\Step 451.exe.config
+C:\Users\Brandon\Music\Step 451\bin\Debug\Step 451.exe
+C:\Users\Brandon\Music\Step 451\bin\Debug\Step 451.pdb
+C:\Users\Brandon\Music\Step 451\bin\Debug\EntityFramework.dll
+C:\Users\Brandon\Music\Step 451\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Brandon\Music\Step 451\bin\Debug\EntityFramework.xml
+C:\Users\Brandon\Music\Step 451\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Brandon\Music\Step 451\obj\Debug\Student EF.csprojAssemblyReference.cache
+C:\Users\Brandon\Music\Step 451\obj\Debug\Student EF.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Music\Step 451\obj\Debug\Student EF.csproj.CopyComplete
+C:\Users\Brandon\Music\Step 451\obj\Debug\Step 451.exe
+C:\Users\Brandon\Music\Step 451\obj\Debug\Step 451.pdb
+C:\Users\Brandon\Music\Student EF\bin\Debug\Step 451.exe.config
+C:\Users\Brandon\Music\Student EF\bin\Debug\Step 451.exe
+C:\Users\Brandon\Music\Student EF\bin\Debug\Step 451.pdb
+C:\Users\Brandon\Music\Student EF\bin\Debug\EntityFramework.dll
+C:\Users\Brandon\Music\Student EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Brandon\Music\Student EF\bin\Debug\EntityFramework.xml
+C:\Users\Brandon\Music\Student EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Brandon\Music\Student EF\obj\Debug\Student EF.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Music\Student EF\obj\Debug\Student EF.csproj.CopyComplete
+C:\Users\Brandon\Music\Student EF\obj\Debug\Step 451.exe
+C:\Users\Brandon\Music\Student EF\obj\Debug\Step 451.pdb
+C:\Users\Brandon\Music\Student EF\obj\Debug\Student EF.csprojAssemblyReference.cache
